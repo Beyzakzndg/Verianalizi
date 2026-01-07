@@ -32,7 +32,7 @@ def hesapla():
     try:
         vize = float(entry_vize.get())
         final = float(entry_final.get())
-
+        
         yeni = np.array([[vize, final]]) / 100
         olasilik = sigmoid(yeni @ w)[0, 0]
 
