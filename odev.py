@@ -1,4 +1,5 @@
-import pandas
+import pandas as pd
+
 #alıştırma1: Devamsızlığı 0 olan öğrencileri listeleyin
 veri={
     "İsim":["Ali","Ayşe","Fatma","Ahmet"],
@@ -7,7 +8,7 @@ veri={
     "final": [80, 50, 90, 40],
     "bölüm": ["Bilgisayar","Elektrik","Makina","İnşaat"],
     "devamsızlık": [0, 2, 9, 5]}
-df=pandas.DataFrame(veri)
+df=pd.DataFrame(veri)
 print(df[df["devamsızlık"]==0])
 print("---------------------------------------------------")
 #Alıştırma 2: Her bölümün en yüksek not alan öğrencisini bulun. 
