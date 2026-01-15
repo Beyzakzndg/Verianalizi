@@ -1,0 +1,16 @@
+odeme_id;ogrenci_id;kurs_adi;liste_fiyati;indirim;odenen_tutar;odeme_tarihi;odeme_yontemi
+1;1;Scratch;1500;0;1500;10.01.2024;Kart
+2;2;Scratch;1500;200;1300;12.01.2024;Kart
+3;3;Arduino;1800;0;1800;15.01.2024;Havale
+4;4;Python çocuklar;2000;300;1700;20.01.2024;Kart
+5;5;Arduino;1800;500;1300;22.01.2024;Havale
+6;6;Scratch;1700;0;1700;5.02.2024;Kart
+7;7;Python çocuklar;2000;0;2000;10.02.2024;Kart
+8;8;Scratch;1500;150;1350;12.02.2024;Havale
+9;9;Arduino;1900;400;1500;15.02.2024;Kart
+10;10;Python çocuklar;2000;0;2000;18.02.2024;Kart
+11;11;Scratch;1500;100;1400;5.03.2024;Havale
+12;12;Arduino;1800;300;1500;8.03.2024;Kart
+13;13;Python çocuklar;2200;0;2200;10.03.2024;Kart
+14;14;Scratch;1500;200;1300;12.03.2024;Havale
+15;15;Arduino;1800;400;1400;15.03.2024;Kart

@@ -1,0 +1,16 @@
+kayit_id;ogrenci_id;kurs_adi;seviye;baslangic_tarihi;tamamlandi;tamamlama_orani;ayrilma_nedeni
+1;1;Scratch;Başlangıç;31.01.2024;Evet;100;Tamamlad?
+2;2;Scratch;Başlangıç;1.02.2024;Evet;95;Tamamlad?
+3;3;Arduino;Ba?lang?ç;2.02.2024;Hay?r;40;S?k?ld?
+4;4;Python Çocuklar;Ba?lang?ç;3.02.2024;Evet;90;Tamamlad?
+5;5;Arduino;Ba?lang?ç;4.02.2024;Hay?r;30;?nternet sorunu
+6;6;Scratch;Orta;5.02.2024;Evet;100;Tamamlad?
+7;7;Python Çocuklar;Ba?lang?ç;6.02.2024;Hay?r;50;Zaman yok
+8;8;Scratch;Ba?lang?ç;7.02.2024;Hay?r;85;Tamamlad?
+9;9;Arduino;Orta;8.02.2024;Hay?r;20;S?k?ld?
+10;10;Python Çocuklar;Ba?lang?ç;9.02.2024;Evet;92;Tamamlad?
+11;11;Scratch;Ba?lang?ç;10.02.2024;Evet;98;Tamamlad?
+12;12;Arduino;Ba?lang?ç;11.02.2024;Hay?r;35;?nternet sorunu
+13;13;Python Çocuklar;Orta;12.02.2024;Evet;100;Tamamlad?
+14;14;Scratch;Ba?lang?ç;13.02.2024;Evet;90;Tamamlad?
+15;15;Arduino;Ba?lang?ç;14.02.2024;Hay?r;45;Zaman yok
